@@ -43,16 +43,21 @@ Here are some articles about system design related topics.
 * [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26)
 * [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * [System Interview](http://www.hiredintech.com/app#system-design)
-* [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
-* [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
+* [Scalability for Dummies](http://www.lecloud.net/tagged/scalability) Good one plan for it. 
+* [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) Good one plan for it. 
 * [Numbers Everyone Should Know](http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
 * [Fallacies of distributed systems](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
 * [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 * [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
-* [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
+* [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html) Done 
 * [A Plain English Introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
-* [The CAP FAQ](https://github.com/henryr/cap-faq)
-* [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
+* [The CAP FAQ](https://github.com/henryr/cap-faq) Completed
+The basic idea is that if a client writes to one side of a partition, any reads that go to the other side of that partition can't possibly know about the most recent write. Now you're faced with a choice: do you respond to the reads with potentially stale information, or do you wait (potentially forever) to hear from the other side of the partition and compromise availability?
+
+This is a proof by construction - we demonstrate a single situation where a system cannot be consistent and available. One reason that CAP gets some press is that this constructed scenario is not completely unrealistic. It is not uncommon for a total partition to occur if networking equipment should fail.
+
+* 
+* [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf) In progress. 
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 * [Scalability, Availability & Stability Patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
