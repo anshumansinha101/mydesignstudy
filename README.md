@@ -158,7 +158,7 @@ The following papers/articles/slides can help you to understand the general desi
 There are some good references for each question. The references here are slides and articles. 
 
 **Design a CDN network**  
-Reference:  
+Reference:  Done
 * [Globally Distributed Content Delivery](https://kilthub.cmu.edu/articles/journal_contribution/Globally_distributed_content_delivery/6605972)
 
 **Design a Google document system**  
@@ -167,7 +167,7 @@ Reference:
 * [Differential Synchronization](https://neil.fraser.name/writing/sync/)
 
 **Design a random ID generation system**  
-Reference: 
+Reference: Done
 * [Announcing Snowflake](https://blog.twitter.com/2010/announcing-snowflake) 
 * [snowflake](https://github.com/twitter/snowflake/)
 
