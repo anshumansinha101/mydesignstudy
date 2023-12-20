@@ -58,7 +58,7 @@ This is a proof by construction - we demonstrate a single situation where a syst
 
 * 
 * [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf) In progress. 
-* [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+* [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html) Done
 * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 * [Scalability, Availability & Stability Patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
 
