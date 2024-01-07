@@ -43,11 +43,11 @@ Here are some articles about system design related topics.
 * [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26)
 * [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * [System Interview](http://www.hiredintech.com/app#system-design)
-* [Scalability for Dummies](http://www.lecloud.net/tagged/scalability) Good one plan for it. 
+* [Scalability for Dummies](http://www.lecloud.net/tagged/scalability) Done
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) Good one plan for it. 
 * [Numbers Everyone Should Know](http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
 * [Fallacies of distributed systems](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf) Completed
-* [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
+* [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html) Done
 * [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html) Done 
 * [A Plain English Introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
